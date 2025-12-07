@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/panaderia/:path*", "destination": "https://la-panaderia-website.vercel.app/:path*" },
+    { "source": "/sonido/:path*", "destination": "https://krpa-website.vercel.app/:path*" },
+    { "source": "/tienda/:path*", "destination": "https://laura-solis-website.vercel.app/:path*" }
+  ]
+}
